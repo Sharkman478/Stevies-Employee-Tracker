@@ -1,11 +1,11 @@
 INSERT INTO department (department_name)
-VALUES
-('Grand Admiral'),
-('Admiral'),
-('General'),
-('Captain'),
-('Sargent'),
-('Private')
+VALUES 
+('Grand Admiral'), 
+('Admiral'), 
+('General'), 
+('Captain'), 
+('Sargent'), 
+('Private');
 
 INSERT INTO roles (title, salary, department_id)
 VALUES
