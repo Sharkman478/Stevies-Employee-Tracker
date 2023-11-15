@@ -20,7 +20,7 @@ INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES
 ('Grand Admiral', 'Chris Roberts', 1, NULL),
 ('Admiral', 'Jared', 2, 1),
-('Genral', 'Bone', 3, 2),
+('General', 'Bone', 3, 2),
 ('Captain', 'Hawkeye', 4, 3),
 ('Sir', 'Sargent', 5, 4),
 ('Private', 'Parts', 6, 5);
